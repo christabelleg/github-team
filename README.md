@@ -1,2 +1,3 @@
 # github-team
-purple team first assignment
+Brando Vazquez
+I learned how to create a branch in Github
