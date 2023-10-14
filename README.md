@@ -4,3 +4,4 @@ CHRISTABELLE G
 a few commands like branching and commit. 
 britney bautsta
 creating a branching
+and merging
